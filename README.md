@@ -1,10 +1,11 @@
 # snakewatergame-
 this game is made in c program with the help of codewithharry
 
+
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<time.h>
-
 int snakeWaterGun(char you, char comp){
     // returns 1 if you win, -1 if you lose and 0 if draw
     // Condition for draw
